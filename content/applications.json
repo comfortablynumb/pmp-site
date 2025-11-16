@@ -1,0 +1,56 @@
+[
+    {
+        "name": "PMP Gateway",
+        "description": "Unified API gateway and authentication service. Provides single sign-on, request routing, and security for your entire platform.",
+        "docs": "#",
+        "repo": "https://github.com/pmp/gateway"
+    },
+    {
+        "name": "PMP Deploy",
+        "description": "Simple deployment orchestration tool. Deploy applications across multiple environments with built-in rollback and health checks.",
+        "docs": "#",
+        "repo": "https://github.com/pmp/deploy"
+    },
+    {
+        "name": "PMP Monitor",
+        "description": "Lightweight monitoring and alerting system. Track metrics, logs, and uptime with customizable dashboards and notifications.",
+        "docs": "#",
+        "repo": "https://github.com/pmp/monitor"
+    },
+    {
+        "name": "PMP Docs",
+        "description": "Documentation platform with markdown support. Create and host beautiful documentation sites for your projects and APIs.",
+        "docs": "#",
+        "repo": "https://github.com/pmp/docs"
+    },
+    {
+        "name": "PMP CI",
+        "description": "Continuous Integration pipeline manager. Simple, fast, and self-hosted CI/CD for your development workflow.",
+        "docs": "#",
+        "repo": "https://github.com/pmp/ci"
+    },
+    {
+        "name": "PMP Store",
+        "description": "Object storage service with S3-compatible API. Store and serve files, backups, and media assets efficiently.",
+        "docs": "#",
+        "repo": "https://github.com/pmp/store"
+    },
+    {
+        "name": "PMP Notify",
+        "description": "Unified notification service. Send notifications across email, SMS, Slack, and webhooks from a single API.",
+        "docs": "#",
+        "repo": "https://github.com/pmp/notify"
+    },
+    {
+        "name": "PMP Analytics",
+        "description": "Privacy-focused analytics platform. Track user behavior and application metrics without compromising user privacy.",
+        "docs": "#",
+        "repo": "https://github.com/pmp/analytics"
+    },
+    {
+        "name": "PMP Queue",
+        "description": "Message queue and job processing system. Handle background jobs, scheduled tasks, and async workflows.",
+        "docs": "#",
+        "repo": "https://github.com/pmp/queue"
+    }
+]
