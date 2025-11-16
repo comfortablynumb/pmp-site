@@ -1,56 +1,50 @@
 [
     {
-        "name": "PMP Gateway",
-        "description": "Unified API gateway and authentication service. Provides single sign-on, request routing, and security for your entire platform.",
-        "docs": "#",
-        "repo": "https://github.com/pmp/gateway"
+        "name": "PMP CLI",
+        "description": "Command-line interface for managing and interacting with PMP applications. Streamline your workflow with powerful CLI tools.",
+        "docs": "https://github.com/comfortablynumb/pmp-cli#readme",
+        "repo": "https://github.com/comfortablynumb/pmp-cli"
     },
     {
-        "name": "PMP Deploy",
-        "description": "Simple deployment orchestration tool. Deploy applications across multiple environments with built-in rollback and health checks.",
-        "docs": "#",
-        "repo": "https://github.com/pmp/deploy"
+        "name": "PMP Cloud Inspector",
+        "description": "Cloud infrastructure inspection and monitoring tool. Gain visibility into your cloud resources and configurations.",
+        "docs": "https://github.com/comfortablynumb/pmp-cloud-inspector#readme",
+        "repo": "https://github.com/comfortablynumb/pmp-cloud-inspector"
     },
     {
-        "name": "PMP Monitor",
-        "description": "Lightweight monitoring and alerting system. Track metrics, logs, and uptime with customizable dashboards and notifications.",
-        "docs": "#",
-        "repo": "https://github.com/pmp/monitor"
+        "name": "PMP Workflow",
+        "description": "Workflow automation and orchestration engine. Design and execute complex workflows with ease.",
+        "docs": "https://github.com/comfortablynumb/pmp-workflow#readme",
+        "repo": "https://github.com/comfortablynumb/pmp-workflow"
     },
     {
-        "name": "PMP Docs",
-        "description": "Documentation platform with markdown support. Create and host beautiful documentation sites for your projects and APIs.",
-        "docs": "#",
-        "repo": "https://github.com/pmp/docs"
+        "name": "PMP Auth API",
+        "description": "Authentication and authorization API service. Secure your applications with robust identity management.",
+        "docs": "https://github.com/comfortablynumb/pmp-auth-api#readme",
+        "repo": "https://github.com/comfortablynumb/pmp-auth-api"
     },
     {
-        "name": "PMP CI",
-        "description": "Continuous Integration pipeline manager. Simple, fast, and self-hosted CI/CD for your development workflow.",
-        "docs": "#",
-        "repo": "https://github.com/pmp/ci"
+        "name": "PMP Gateway API",
+        "description": "API gateway for routing, load balancing, and managing microservices. Unified entry point for your platform.",
+        "docs": "https://github.com/comfortablynumb/pmp-gateway-api#readme",
+        "repo": "https://github.com/comfortablynumb/pmp-gateway-api"
     },
     {
-        "name": "PMP Store",
-        "description": "Object storage service with S3-compatible API. Store and serve files, backups, and media assets efficiently.",
-        "docs": "#",
-        "repo": "https://github.com/pmp/store"
+        "name": "PMP File API",
+        "description": "File storage and management API. Handle file uploads, downloads, and organization with a simple REST interface.",
+        "docs": "https://github.com/comfortablynumb/pmp-file-api#readme",
+        "repo": "https://github.com/comfortablynumb/pmp-file-api"
     },
     {
-        "name": "PMP Notify",
-        "description": "Unified notification service. Send notifications across email, SMS, Slack, and webhooks from a single API.",
-        "docs": "#",
-        "repo": "https://github.com/pmp/notify"
+        "name": "PMP Mock HTTP",
+        "description": "HTTP mocking service for development and testing. Simulate API responses and test integration scenarios.",
+        "docs": "https://github.com/comfortablynumb/pmp-mock-http#readme",
+        "repo": "https://github.com/comfortablynumb/pmp-mock-http"
     },
     {
-        "name": "PMP Analytics",
-        "description": "Privacy-focused analytics platform. Track user behavior and application metrics without compromising user privacy.",
-        "docs": "#",
-        "repo": "https://github.com/pmp/analytics"
-    },
-    {
-        "name": "PMP Queue",
-        "description": "Message queue and job processing system. Handle background jobs, scheduled tasks, and async workflows.",
-        "docs": "#",
-        "repo": "https://github.com/pmp/queue"
+        "name": "PMP Message Queue API",
+        "description": "Message queue and pub/sub system. Enable reliable asynchronous communication between services.",
+        "docs": "https://github.com/comfortablynumb/pmp-mq-api#readme",
+        "repo": "https://github.com/comfortablynumb/pmp-mq-api"
     }
 ]
